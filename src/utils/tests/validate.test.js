@@ -1,4 +1,4 @@
-const { isFormValid } = require("../validate.js");
+import isFormValid from "../validate.js";
 
 const faker = require("faker");
 const {

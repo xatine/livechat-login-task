@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import { Redirect } from "react-router";
 import useForm from "hooks/useForm.js";
+import isFormValid from "utils/validate.js";
 import { AuthContext } from "context";
 
 import {
@@ -12,7 +13,6 @@ import {
   Notification,
   Button
 } from "components";
-const { isFormValid } = require("utils/validate.js");
 
 const initialValues = {
   email: "",

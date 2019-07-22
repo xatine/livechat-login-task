@@ -1,4 +1,4 @@
-const validator = require("validator");
+import validator from "validator";
 
 // const emailRegexp = /\S+@\S+\.\S+/;
 const passwordRegexp = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,}$/;
@@ -17,4 +17,4 @@ const isFormValid = ({ email, password }) => {
   return errors;
 };
 
-module.exports = { isFormValid };
+export default isFormValid;
