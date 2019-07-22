@@ -9,6 +9,6 @@ Run `yarn test`
 
 
 Use:
-email: test@test.pl
+email: test@test.pl and
 password: Password1
 to sign in. 
