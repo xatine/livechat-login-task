@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/livechat-login-task/static/js/main.a01b8be3.chunk.js",
+    "main.js.map": "/livechat-login-task/static/js/main.a01b8be3.chunk.js.map",
+    "runtime~main.js": "/livechat-login-task/static/js/runtime~main.48adf580.js",
+    "runtime~main.js.map": "/livechat-login-task/static/js/runtime~main.48adf580.js.map",
+    "static/js/2.5d8473d8.chunk.js": "/livechat-login-task/static/js/2.5d8473d8.chunk.js",
+    "static/js/2.5d8473d8.chunk.js.map": "/livechat-login-task/static/js/2.5d8473d8.chunk.js.map",
+    "index.html": "/livechat-login-task/index.html",
+    "precache-manifest.d511698d12c0200fca4f2af622238a0b.js": "/livechat-login-task/precache-manifest.d511698d12c0200fca4f2af622238a0b.js",
+    "service-worker.js": "/livechat-login-task/service-worker.js"
+  }
+}
