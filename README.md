@@ -1,4 +1,4 @@
-# Livechat recruitment task 
+# Login Page with React Hooks
 
 ### How to start?
 1. Install all dependencies with `yarn install`
